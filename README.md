@@ -6,9 +6,9 @@ This is a 3-page informational website built to raise awareness about ocean plas
 
 ## 🔗 Live Site
 
-👉 [View the site on GitHub Pages](https://your-username.github.io/ocean-cleanup/)
+👉 [View the site on GitHub Pages](https://FreshTaurus.github.io/ocean-cleanup/)
 
-> *(Replace `your-username` with your actual GitHub username)*
+> *(Replace `FreshTaurus` with your actual GitHub username)*
 
 ---
 
