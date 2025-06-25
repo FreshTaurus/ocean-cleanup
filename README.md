@@ -8,8 +8,6 @@ This is a 3-page informational website built to raise awareness about ocean plas
 
 👉 [View the site on GitHub Pages](https://FreshTaurus.github.io/ocean-cleanup/)
 
-> *(Replace `FreshTaurus` with your actual GitHub username)*
-
 ---
 
 ## 📁 Project Structure
@@ -39,13 +37,6 @@ This is a 3-page informational website built to raise awareness about ocean plas
 - Pull requests linked to issues using `closes #X`
 - Project board tracked progress through To Do → In Progress → Done
 - Final site deployed through GitHub Pages (Settings > Pages)
-
----
-
-## ✍️ Author
-
-**[Your Name]**  
-Student Developer | Git Workshop Participant
 
 ---
 
