@@ -1,26 +1,54 @@
-# Ocean Cleanup Website 
+# 🌊 Ocean Cleanup Website
 
-A simple, responsive informational website built to raise awareness about ocean pollution and encourage public involvement in cleanup efforts.
+This is a 3-page informational website built to raise awareness about ocean plastic pollution and support global cleanup efforts. It was created as part of a Git & GitHub collaboration project to practice professional workflows, including branching, issues, and GitHub Pages deployment.
 
-##  About the Project
+---
 
-This website is a 3-page project created for a Git collaboration workshop. It highlights the mission, background, and ways to support ocean cleanup initiatives.
+## 🔗 Live Site
 
-##  Pages
-- `index.html` – Homepage with a welcome message
-- `about.html` – Overview of the cause
-- `donate.html` – How to get involved
+👉 [View the site on GitHub Pages](https://your-username.github.io/ocean-cleanup/)
 
-##  Technologies
+> *(Replace `your-username` with your actual GitHub username)*
+
+---
+
+## 📁 Project Structure
+
+| Page        | Description                                                  |
+|-------------|--------------------------------------------------------------|
+| `index.html` | Homepage with mission overview and navigation               |
+| `about.html` | Info about the organization's goals and story               |
+| `donate.html`| Ways to get involved: donate, volunteer, share              |
+| `style.css`  | Reusable modern CSS applied to all pages                    |
+
+---
+
+## ⚙️ Tech Stack
+
 - HTML5
 - CSS3
 - Git & GitHub
+- GitHub Issues, Projects, and Pull Requests
 - GitHub Pages for deployment
 
-##  Live Site
-[https://FreshTaurus.github.io/ocean-cleanup](https://FreshTaurus.github.io/ocean-cleanup)
+---
 
-##  How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ocean-cleanup.git
+## 📌 GitHub Workflow
+
+- Each feature/page was built on a separate branch
+- Pull requests linked to issues using `closes #X`
+- Project board tracked progress through To Do → In Progress → Done
+- Final site deployed through GitHub Pages (Settings > Pages)
+
+---
+
+## ✍️ Author
+
+**[Your Name]**  
+Student Developer | Git Workshop Participant
+
+---
+
+## 🤝 License
+
+This project is free to use for educational purposes.
