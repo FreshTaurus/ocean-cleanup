@@ -43,7 +43,7 @@ This is a 3-page informational website built to raise awareness about ocean plas
 ## 📌 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/FreshTaurus/ocean-cleanup.git
+    https://github.com/FreshTaurus/ocean-cleanup.git
 
 ---
 
