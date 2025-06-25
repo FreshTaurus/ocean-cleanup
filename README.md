@@ -40,6 +40,13 @@ This is a 3-page informational website built to raise awareness about ocean plas
 
 ---
 
+## 📌 How to Run Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/ocean-cleanup.git
+
+---
+
 ## 🤝 License
 
 This project is free to use for educational purposes.
